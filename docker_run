@@ -1,0 +1,1 @@
+docker run --runtime=nvidia -v /tmp/.X11-unix:/tmp/.X11-unix -v /dev/snd:/dev/snd --privileged -e DISPLAY -v /playpen2/mturja/data:/mnt/data -it tensorflow/tensorflow:1.12.0-gpu-py3 bash
