@@ -47,4 +47,4 @@ First, you need to train a model. This will save weights to the `saved-models` f
 
 This takes 6 hours in my machine(I am not using GPU). Most of the time is spent on training the Deep Q Network for RL.
 
-##GitHub: https://github.com/mturja-vf-ic-bd/self-driving-car_Robotics-Project/tree/master/ReadMe
+## GitHub: https://github.com/mturja-vf-ic-bd/self-driving-car_Robotics-Project/tree/master/ReadMe
